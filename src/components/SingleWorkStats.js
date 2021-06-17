@@ -9,7 +9,7 @@ function SingleWorkDescription({text, stats}){
                 <div className="container">
                     <div className="row">
                         <div className="col-12 col-md-12 col-lg-5 single-stats-title">
-                            <h1 className="section-big-title anim-bot">How we improved this brand. <br /> See the numbers.</h1>
+                            <h1 className="section-big-title anim-bot">How I added value this brand. <br /> See the numbers.</h1>
                             {text.map((item, index) => <p className="anim-bot" key={index}>{item}</p>)}
                         </div>
                         <div className="col-1"></div>

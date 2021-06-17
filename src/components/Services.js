@@ -54,7 +54,7 @@ function Services() {
           <div className="row">
             <div className="col-12 col-md-6">
               <h1 className="section-big-title anim-bot">
-                Let's take yMy business <br /> to a whole new level.
+                Let's take your business <br /> to a whole new level.
               </h1>
             </div>
             <div className="col-2"></div>
