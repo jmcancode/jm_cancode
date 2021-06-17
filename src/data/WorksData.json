@@ -123,7 +123,7 @@
       "id": 4,
       "name": "High-Resolution Feed",
       "category": "frontend",
-      "image": "4.jpg",
+      "image": "5.jpg",
       "singlePage": {
          "headerInfo": {
             "project": ["Working with the team at sed do eiusmod tempor incididunt labore et dolores magna aliqua. Nectarine was created to unde omnis iste natus error amis voluptatem est accusantium doloremque lauda totam remus quia vibem est."],
@@ -240,7 +240,7 @@
       "id": 7,
       "name": "SBJM Footwear",
       "category": "fullstack",
-      "image": "5.jpg",
+      "image": "4.jpg",
       "singlePage": {
          "headerInfo": {
             "project": ["Style by JM - Footwear is a Texas based leather goods compnay. The brands primary product is footwear but also offers a large range of Spanish made leather goods. This is a full-stack e-commerce web appllication. "],
