@@ -58,8 +58,8 @@ function About() {
             </h1>
             <p className="hero-title">
               I develop web and mobile applications for web designers,
-              marketeers, and start-ups <br /> My applications are written using
-              clean and scalable code.
+              marketeers, and start-ups <br /> My software is written using
+              React for web and React Native for mobile applications.
             </p>
             <div className="hero-title hero-button">
               <Link to="/">

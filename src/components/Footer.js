@@ -29,7 +29,7 @@ function Footer() {
       <div className="container-fluid">
         <div className="row">
           <div className="col-12 col-md-12 col-lg-2 col-xl-3 footer-logo">
-            <h3>JM CAN CODE.</h3>
+            <h3><span style={{color: "#c60000"}}>JM</span> CAN CODE.</h3>
           </div>
           <div className="col-12 col-md-4 col-lg-3 col-xl-3 footer-contact-box">
             <div>

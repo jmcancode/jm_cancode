@@ -40,12 +40,12 @@ function News() {
         <div className="row">
           <div className="col-12 centered-hero">
             <h1 className="hero-title">
-              Insights, thoughts & <br /> announcements from the studio.
+              Insights, thoughts & <br /> announcements.
             </h1>
             <p className="hero-title">
               I share tips, tutorials, and lessons from recent experiments +
-              projects on the web and in mobile. <br /> Make sure you visit our
-              blog daily.
+              projects on the web and in mobile using React + React Native.{" "}
+              <br />
             </p>
           </div>
         </div>

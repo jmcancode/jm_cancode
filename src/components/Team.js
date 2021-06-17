@@ -143,8 +143,7 @@ function Team() {
           <div className="col-12">
             <h1 className="section-big-title anim-bot">Meet the team.</h1>
             <p className="anim-bot">
-              We are a team sit amet consectetur adipiscing elit <br /> sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua.
+              Me, Myself, and I. <br />
             </p>
           </div>
           {displayTeam}
