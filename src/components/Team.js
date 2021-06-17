@@ -7,7 +7,7 @@ function Team() {
     {
       id: 1,
       name: "Jon-Michael Narvaez",
-      image: "about_image.PNG",
+      image: "aboutJM.PNG",
       job: "Full-stack Developer",
       social: [
         {
