@@ -34,7 +34,7 @@ function Works() {
     setProjects(worksUpdated);
   }, [filter]);
 
-  const worksFilters = ["all works", "frontend", "full-stack"];
+  const worksFilters = ["all works", "frontend", "fullstack"];
   const displayWorks = projects.map((item, i) => (
     <WorkItem
       key={i}

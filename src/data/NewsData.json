@@ -6,13 +6,13 @@
             "title": "WEB: How much does it cost to build a web app?",
             "date": "11 May, 2021",
             "singlePage": {
-                "categories": ["Fashion", "Lifestyle"],
+                "categories": ["Web Development", "Developer"],
                 "bigImage": "blog-big-1",
                 "headline": "How to improve your fashion.",
                 "textOne": ["Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem laudan totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.", "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."],
                 "blockquote": {
                     "text": "Be who you are and say what you feel, because those who mind do not matter and those who matter do not mind.",
-                    "author": "Bernard M. Baruch"
+                    "author": "Jon-Michael Narvaez"
                 },
                 "textTwo": ["Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum mortusmati.", "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus."],
                 "tags": ["design", "aestethics", "typography", "learning", "course"]

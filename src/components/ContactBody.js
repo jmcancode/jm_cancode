@@ -8,15 +8,15 @@ function ContactBody() {
   const socialContact = [
     {
       label: "Instagram",
-      url: "https://www.instagram.com",
+      url: "https://www.instagram.com/jm_cancode",
     },
     {
       label: "LinkedIn",
-      url: "https://www.linkedin.com",
+      url: "https://www.linkedin.com/jmcancode",
     },
     {
       label: "Twitter",
-      url: "https://www.twitter.com",
+      url: "https://www.twitter.com/jm_cancode",
     },
   ];
 
