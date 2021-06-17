@@ -7,7 +7,7 @@ const FormSuccess = () => {
     <div className='succes-message'>
       <Icofont icon='check-circled' />
       <h1 className="big-title">Success!</h1>
-      <p className="sub-title">You have filled in the form correctly. <br /> This form supports field validation, but will need <br /> some backend code files, to actually send emails.</p>
+      <p className="sub-title">You have filled in the form correctly. <br /> I will be in touch within <br /> 48 -72 business hours. Thank you!</p>
     </div>
   )
 

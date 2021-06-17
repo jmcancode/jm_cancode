@@ -41,10 +41,10 @@ function SingleWork() {
   }, []);
 
   const { workId } = useParams();
-  const thisWork = works.items.find((element) => element.id === workId);
+  const thisWork = works.items.find((element) => element.id == workId);
   const updatedWorks = works.items.filter((element) => element !== thisWork);
   const relatedWorks = updatedWorks.filter(
-    (element) => element.category === thisWork.category
+    (element) => element.category == thisWork.category
   );
 
   return (
