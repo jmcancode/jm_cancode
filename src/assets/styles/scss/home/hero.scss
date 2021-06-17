@@ -1,0 +1,100 @@
+/* Hero component styling */
+#heroSection{
+    position: relative;
+    padding-top: 50px;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    h1{
+        line-height: 1.5;
+        font-weight: 500;
+        font-size: 3rem;
+        letter-spacing: -2px;
+    }
+    p{
+      margin-top: 15px;
+      margin-bottom: 0px;
+      font-size: 1.1rem;
+      line-height: 1.75;
+    }
+    .single-work-fact{
+      display: flex;
+      align-items: flex-end;
+      h6{
+        font-size: .9rem;
+        color: var(--light-text);
+        line-height: 24px;
+        font-weight: 400;
+      }
+      ul{
+        margin-top: 0px;
+        list-style: none;
+        padding-left: 0px;
+        margin-bottom: 0px;
+        li{
+          color: var(--grey-text);
+          font-size: 1.1rem;
+          font-weight: 300;
+          line-height: 2;
+        }
+      }
+    }
+    .single-news-hero{
+      h1{
+        margin-bottom: 15px;
+        max-width: 600px;
+      }
+      .article-meta{
+        p{
+          display: inline-block;
+          margin-right: 10px;
+          color: var(--light-text);
+          font-size: .95rem;
+          span{
+            margin-left: 10px;
+            color: #e1e1e1;
+          }
+        }
+      }
+      ul{
+        margin: 30px 0 0 0;
+        padding: 0;
+        list-style: none;
+        li{
+          display: inline-block;
+          margin: 0 15px 0 0;
+          a{
+            color: var(--black-text);
+            font-size: .95rem;
+            border-bottom: 3px solid var(--accent);
+            font-weight: 400;
+            transition: all .3s ease-in-out;
+          }
+        }
+      }
+    }
+    .hero-button{
+      margin-top: 50px;
+      a{
+        color: var(--black-text);
+        font-size: .95rem;
+        font-weight: 400;
+        padding: 17px 17px 17px 25px;
+        border: 1px solid #dbdbdb;
+        transition: all .3s ease-in-out;
+      }
+      a:hover{
+        background: var(--accent);
+        border: 1px solid var(--accent);
+        transition: all .3s ease-in-out;
+      }
+    }
+    .about-hero{
+      h1{
+        margin-bottom: 25px;
+      }
+    }
+}
+.short{
+    height: 60vh !important;
+}

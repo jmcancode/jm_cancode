@@ -1,0 +1,239 @@
+
+{   
+   "items":[ 
+   {
+      "id": 1,
+      "name": "Athlete Talk",
+      "category": "frontend",
+      "image": "",
+      "singlePage": {
+         "headerInfo": {
+            "project": ["Athlete Talk is an application that aims to empower athletes by providing energizing behavioral health content as well as a space to process and discuss what they learn together."],
+            "services": ["Design Brainstorming", "Web App Development", "Progressive Web Application"]
+         },
+         "bigImage": "project-1-big",
+         "headline": ["A brand talking for itself. Is the best experience."],
+         "description": ["AthleteTalk is an application that aims to empower athletes by providing energizing behavioral health content as well as a space to process and discuss what they learn together. AthleteTalk includes text and picture-based multi-day plans that include questions intended to help athletes critically and intentionally think through their wellness enhancement efforts. AthleteTalk also includes wellness videos from some of the premier sports behavioral health specialists in some truly unique areas such as trauma, mindfulness, and diaphragmatic breathing. When it comes to behavioral health and wellness - this is where AthletesTalk. "],
+         "gallery": ["project-1-1.jpg", "project-1-2.jpg"],
+         "improvementText": ["We enjoyed working on this project sit aspernatur aut odit aut fugit, sed do less consequunt magni dolores."],
+         "improvements": [
+            {
+               "improvementPercent": 58,
+               "improvementTitle": "New Customers",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 37,
+               "improvementTitle": "Social Media Followers",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 14,
+               "improvementTitle": "Market Capital",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 23,
+               "improvementTitle": "More Conversions",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            }
+         ]
+      }
+   },
+   {   
+      "id": 2,
+      "name": "The Royal Guard - SA",
+      "category": "full-stack",
+      "image": "2.jpg",
+      "singlePage": {
+         "headerInfo": {
+            "project": ["Working with the team at sed do eiusmod tempor incididunt labore et dolores magna aliqua. Des Pommes was created to unde omnis iste natus error amis voluptatem est accusantium doloremque lauda totam remus quia vibem est."],
+            "services": ["Design Brainstorming", "iOS & Android Development", "Selling & Marketing Strategy"]
+         },
+         "bigImage": "project-2-big",
+         "headline": ["A brand talking for itself. The best experience."],
+         "description": ["Des Pommes was created to unde omnis iste natus error sit voluptatem est accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt.", "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam."],
+         "gallery": ["project-2-1.jpg", "project-2-2.jpg"],
+         "improvementText": ["We enjoyed working on this project sit aspernatur aut odit aut fugit, sed do less consequunt magni dolores."],
+         "improvements": [
+            {
+               "improvementPercent": 29,
+               "improvementTitle": "New Customers",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 41,
+               "improvementTitle": "Social Media Followers",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 22,
+               "improvementTitle": "Market Capital",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 35,
+               "improvementTitle": "More Conversions",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            }
+         ]
+      }
+   },
+   {
+      "id": 3,
+      "name": "Runnit.Live",
+      "category": "full-stack",
+      "image": "3.jpg",
+      "singlePage": {
+         "headerInfo": {
+            "project": ["Working with the team at sed do eiusmod tempor incididunt labore et dolores magna aliqua. Lotion was created to unde omnis iste natus error amis voluptatem est accusantium doloremque lauda totam remus quia vibem est."],
+            "services": ["Design Brainstorming", "iOS & Android Development", "Selling & Marketing Strategy"]
+         },
+         "bigImage": "project-3-big",
+         "headline": ["A brand talking for itself. The best experience."],
+         "description": ["Lotion was created to unde omnis iste natus error sit voluptatem est accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt.", "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam."],
+         "gallery": ["project-3-1.jpg", "project-3-2.jpg"],
+         "improvementText": ["We enjoyed working on this project sit aspernatur aut odit aut fugit, sed do less consequunt magni dolores."],
+         "improvements": [
+            {
+               "improvementPercent": 32,
+               "improvementTitle": "New Customers",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 45,
+               "improvementTitle": "Social Media Followers",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 24,
+               "improvementTitle": "Market Capital",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 29,
+               "improvementTitle": "More Conversions",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            }
+         ]
+      }
+   },
+   {
+      "id": 4,
+      "name": "High-Resolution Feed",
+      "category": "front-end",
+      "image": "4.jpg",
+      "singlePage": {
+         "headerInfo": {
+            "project": ["Working with the team at sed do eiusmod tempor incididunt labore et dolores magna aliqua. Nectarine was created to unde omnis iste natus error amis voluptatem est accusantium doloremque lauda totam remus quia vibem est."],
+            "services": ["Design Brainstorming", "iOS & Android Development", "Selling & Marketing Strategy"]
+         },
+         "bigImage": "project-4-big",
+         "headline": ["A brand talking for itself. The best experience."],
+         "description": ["Nectarine was created to unde omnis iste natus error sit voluptatem est accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt.", "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam."],
+         "gallery": ["project-4-1.jpg"],
+         "improvementText": ["We enjoyed working on this project sit aspernatur aut odit aut fugit, sed do less consequunt magni dolores."],
+         "improvements": [
+            {
+               "improvementPercent": 34,
+               "improvementTitle": "New Customers",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 55,
+               "improvementTitle": "Social Media Followers",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 7,
+               "improvementTitle": "Market Capital",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 11,
+               "improvementTitle": "More Conversions",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            }
+         ]
+      }
+   },
+   {
+      "id": 5,
+      "name": "Dark Mode",
+      "category": "frontend",
+      "image": "5.jpg",
+      "singlePage": {
+         "headerInfo": {
+            "project": ["Working with the team at sed do eiusmod tempor incididunt labore et dolores magna aliqua. Chok Chok was created to unde omnis iste natus error amis voluptatem est accusantium doloremque lauda totam remus quia vibem est."],
+            "services": ["Design Brainstorming", "Frontend Development", "HTML CSS JAVASCRIPT"]
+         },
+         "bigImage": "project-5-big",
+         "headline": ["A brand talking for itself. The best experience."],
+         "description": ["Chok Chok was created to unde omnis iste natus error sit voluptatem est accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt.", "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam."],
+         "gallery": ["project-5-1.jpg"],
+         "improvementText": ["We enjoyed working on this project sit aspernatur aut odit aut fugit, sed do less consequunt magni dolores."],
+         "improvements": [
+            {
+               "improvementPercent": 46,
+               "improvementTitle": "New Customers",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 61,
+               "improvementTitle": "Social Media Followers",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 30,
+               "improvementTitle": "Market Capital",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 79,
+               "improvementTitle": "More Conversions",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            }
+         ]
+      }
+   },
+   {   
+      "id": 6,
+      "name": "Drag + Drop",
+      "category": "frontend",
+      "image": "6.jpg",
+      "singlePage": {
+         "headerInfo": {
+            "project": ["Working with the team at sed do eiusmod tempor incididunt labore et dolores magna aliqua. Filet was created to unde omnis iste natus error amis voluptatem est accusantium doloremque lauda totam remus quia vibem est."],
+            "services": ["Design Brainstorming", "iOS & Android Development", "Selling & Marketing Strategy"]
+         },
+         "bigImage": "project-6-big",
+         "headline": ["A brand talking for itself. The best experience."],
+         "description": ["Filet was created to unde omnis iste natus error sit voluptatem est accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt.", "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam."],
+         "gallery": ["project-6-1.jpg", "project-6-2.jpg"],
+         "improvementText": ["We enjoyed working on this project sit aspernatur aut odit aut fugit, sed do less consequunt magni dolores."],
+         "improvements": [
+            {
+               "improvementPercent": 35,
+               "improvementTitle": "New Customers",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 23,
+               "improvementTitle": "Social Media Followers",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 17,
+               "improvementTitle": "Market Capital",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            },
+            {
+               "improvementPercent": 27,
+               "improvementTitle": "More Conversions",
+               "improvementDescription": "Nemo enim ipsam volupt quiames voluptas sit asper natur aut odit aut fugit sed."
+            }
+         ]
+      }
+   }
+   ]
+}

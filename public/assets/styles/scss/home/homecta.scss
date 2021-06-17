@@ -1,0 +1,42 @@
+/* HomeCta component styling */
+#homeCtaSection{
+    padding-bottom: 125px;
+    .row{
+      margin-top: 125px;
+    }
+    h1{
+      margin-bottom: 20px;
+    }
+    .single-work-cta{
+      ul{
+        columns: 2;
+      }
+    }
+    ul{
+      margin-top: 20px;
+      list-style: none;
+      padding-left: 0px;
+      li{
+        color: var(--light-text);
+        font-size: 1rem;
+        font-weight: 300;
+        line-height: 2;
+      }
+    }
+    img{
+      max-width: 100%;
+    }
+    p{
+      margin-top: 7px;
+      font-size: 1.1rem;
+      line-height: 1.6;
+      margin-bottom: 25px;
+  
+      &:last-child{
+        margin-bottom: 0px;
+      }
+    }
+    .img-anim{
+      width: 100%;
+    }
+}

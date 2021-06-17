@@ -1,0 +1,51 @@
+/* Services styling */
+#sectionServices{
+    padding: 115px 0 0 0;
+    .container{
+      padding: 0px;
+      h1{
+        margin-bottom: 5px;
+        padding-left: 5px;
+      }
+      .services-button{
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-end;
+        padding: 0px 0px 35px 20px;
+        a{
+          color: var(--text);
+          font-size: .95rem;
+          font-weight: 400;
+          padding: 17px 17px 17px 25px;
+          border: 1px solid #dbdbdb;
+          transition: all .3s ease-in-out;
+        }
+        a:hover{
+          background: var(--accent);
+          border: 1px solid var(--accent);
+          transition: all .3s ease-in-out;
+        }
+      }
+      .row{
+        margin: 0 -20px;
+        .service-box{
+          margin-top: 40px;
+          padding: 0 20px;
+          i{
+            font-size: 2rem;
+          }
+          h6{
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: .9rem;
+            font-weight: 400;
+            color: var(--light-text);
+          }
+          p{
+            margin-bottom: 0px !important;
+          }
+        }
+      }
+    }
+}
+  

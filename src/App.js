@@ -1,25 +1,39 @@
-import logo from './logo.svg';
-import './App.css';
+import React, {useEffect} from 'react'
+import {Switch, Route, useLocation, withRouter} from 'react-router-dom'
+import {AnimatePresence} from 'framer-motion'
+
+import Home from './pages/Home'
+import SingleWork from './pages/SingleWork'
+import About from './pages/About'
+import News from './pages/News'
+import SingleNews from './pages/SingleNews'
+import Contact from './pages/Contact'
+import Page404 from './pages/404'
 
 function App() {
+
+  const location = useLocation()
+
+  useEffect(() => { setTimeout(()=>{ window.scrollTo(0, 0) }, 1000) }, [location])
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+      <AnimatePresence initial={true} exitBeforeEnter>
+        <Switch location={location} key={location.pathname}>
+          <Route exact path='/'><Home /></Route>
+          <Route path='/works-:workId'><SingleWork /></Route>
+          <Route exact path='/about'><About /></Route>
+          <Route exact path='/news'><News /></Route>
+          <Route path='/single-news-:newsId'><SingleNews /></Route>
+          <Route exact path='/contact'><Contact /></Route>
+          <Route ><Page404 /></Route>
+        </Switch>
+      </AnimatePresence>
+    </>
+  )
 }
 
-export default App;
+const WithRouterApp = withRouter(App);
+export default WithRouterApp
+
+

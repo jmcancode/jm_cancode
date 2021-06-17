@@ -1,0 +1,112 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "image": "blog1.jpg",
+            "title": "WEB: How much does it cost to build a web app?",
+            "date": "11 May, 2021",
+            "singlePage": {
+                "categories": ["Fashion", "Lifestyle"],
+                "bigImage": "blog-big-1",
+                "headline": "How to improve your fashion.",
+                "textOne": ["Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolorem laudan totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.", "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."],
+                "blockquote": {
+                    "text": "Be who you are and say what you feel, because those who mind do not matter and those who matter do not mind.",
+                    "author": "Bernard M. Baruch"
+                },
+                "textTwo": ["Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum mortusmati.", "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus."],
+                "tags": ["design", "aestethics", "typography", "learning", "course"]
+            }
+        },
+        {
+            "id": 2,
+            "image": "blog2.jpg",
+            "title": "TECH: Is PWA right for your next project?",
+            "date": "9 May, 2021",
+            "singlePage": {
+                "categories": ["Cooking", "Programming"],
+                "bigImage": "blog-big-2",
+                "headline": "Cooking is for everyone.",
+                "textOne": ["Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.", "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."],
+                "blockquote": {
+                    "text": "Be who you are and say what you feel, because those who mind do not matter and those who matter do not mind.",
+                    "author": "Bernard M. Baruch"
+                },
+                "textTwo": ["Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum mortusmati.", "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus."],
+                "tags": ["tech", "progressive web applications", "web", " development"]
+            }
+        },
+        {
+            "id": 3,
+            "image": "blog3.jpg",
+            "title": "MOBILE: Is Expo the future of mobile dev?  ",
+            "date": "7 May, 2021",
+            "singlePage": {
+                "categories": ["Lifestyle", "Cooking"],
+                "bigImage": "blog-big-3",
+                "headline": "This secret could improve your lifestyle.",
+                "textOne": ["Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.", "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."],
+                "blockquote": {
+                    "text": "Be who you are and say what you feel, because those who mind do not matter and those who matter do not mind.",
+                    "author": "Bernard M. Baruch"
+                },
+                "textTwo": ["Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum mortusmati.", "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus."],
+                "tags": ["mobile", "development", "hybrid" ]
+            }
+        },
+        {
+            "id": 4,
+            "image": "blog4.jpg",
+            "title": "WEB: 5 user focused design tips",
+            "date": "6 May, 2021",
+            "singlePage": {
+                "categories": ["Lifestyle", "Cooking"],
+                "bigImage": "blog-big-4",
+                "headline": "Take care of your health.",
+                "textOne": ["Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.", "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."],
+                "blockquote": {
+                    "text": "Be who you are and say what you feel, because those who mind do not matter and those who matter do not mind.",
+                    "author": "Bernard M. Baruch"
+                },
+                "textTwo": ["Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum mortusmati.", "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus."],
+                "tags": ["tech", "progressive web applications", "web", " development"]
+            }
+        },
+        {
+            "id": 5,
+            "image": "blog5.jpg",
+            "title": "WEB: Service Worker update in Creact-React-App",
+            "date": "29 April, 2021",
+            "singlePage": {
+                "categories": ["Programming", "Cooking"],
+                "bigImage": "blog-big-5",
+                "headline": "You'll love this dessert.",
+                "textOne": ["Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.", "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."],
+                "blockquote": {
+                    "text": "Be who you are and say what you feel, because those who mind do not matter and those who matter do not mind.",
+                    "author": "Bernard M. Baruch"
+                },
+                "textTwo": ["Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum mortusmati.", "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus."],
+                "tags": ["tech", "progressive web applications", "web", " development"]
+            }
+        },
+        {
+            "id": 6,
+            "image": "blog6.jpg",
+            "title": "My current reading list.",
+            "date": "27 April, 2021",
+            "singlePage": {
+                "categories": ["Lifestyle", "Fashion"],
+                "bigImage": "blog-big-6",
+                "headline": "Skincare gives confidence.",
+                "textOne": ["Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudan totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.", "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga."],
+                "blockquote": {
+                    "text": "Be who you are and say what you feel, because those who mind do not matter and those who matter do not mind.",
+                    "author": "Bernard M. Baruch"
+                },
+                "textTwo": ["Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum mortusmati.", "Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus."],
+                "tags": ["tech", "progressive web applications", "web", " development"]
+            }
+        }
+    ]
+}
