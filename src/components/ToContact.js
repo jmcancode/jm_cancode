@@ -9,10 +9,10 @@ function ToContact() {
       <div className="container">
         <div className="row">
           <div className="col-12 to-contact-cta">
-            <h1 className="section-big-title anim-bot">
+            <h1 className="section-big-title text-white ">
               Let's build something <br /> amazing together!
             </h1>
-            <div className="cta-wrapper anim-bot">
+            <div className="cta-wrapper text-white">
               <Link to="/contact">
                 Start a project <Icofont icon="thin-double-right" />
               </Link>

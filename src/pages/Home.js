@@ -58,12 +58,12 @@ function Home() {
             </h1>
             <p className="hero-title">
               Hello there! I'm JM, freelance full-stack developer living and
-              working in San Antonio, Texas <br /> Lets get together and talk
-              about your next web or mobile project.
+              working in San Antonio, Texas. <br /> Let's meet for coffee and
+              talk about your next web or mobile project.
             </p>
             <div className="hero-button hero-title">
               <Link to="/about">
-                Learn more <Icofont icon="thin-double-right" />
+                About me <Icofont icon="thin-double-right" />
               </Link>
             </div>
           </div>
@@ -87,16 +87,16 @@ function Home() {
           <div className="col-12 col-md-6">
             <div className="anim-bot">
               <p>
-                It’s a constant work in progress. I believe in the agile
-                approach to software development, creating a flexible and
-                healthy learning enjoinment for all parties involved in creating
-                your applications.
+                It’s a constant work in progress. I use the agile approach to
+                software development and work with your design team to bring
+                your web or mobile application to life.
               </p>
               <p>
                 Rather than trying to get things perfect the first time, I focus
                 on properly testing the user experience as your application
                 grows. Every application has its own requirements and timeline,
-                therefor it is difficult to give pricing.
+                therefor it is difficult to give pricing and time of completion
+                with a discovery meeting.
               </p>
             </div>
           </div>

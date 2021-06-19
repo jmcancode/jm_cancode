@@ -53,12 +53,12 @@ function About() {
         <div className="row">
           <div className="col-12">
             <h1 className="hero-title">
-              I believe in designing and engineering <br /> beautiful & clean
+              I design and engineer <br /> beautiful & clean
               applications.
             </h1>
             <p className="hero-title">
               I develop web and mobile applications for web designers,
-              marketeers, and start-ups <br /> My software is written using
+              marketeers, and start-ups. <br /> My software is written using
               React for web and React Native for mobile applications.
             </p>
             <div className="hero-title hero-button">

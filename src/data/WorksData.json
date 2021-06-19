@@ -54,7 +54,7 @@
          "bigImage": "project-2-big",
          "headline": ["A brand talking for itself. The best experience."],
          "description": ["Education is the focal point of this platform. I provide 4 memberships each that speak to a democratic of clients i've worked with in the past. TRG is currently in production and expected to launch fall of 2021."],
-         "gallery": ["project-2-1.jpg", "project-2-2.jpg"],
+         "gallery": ["project-3-1.jpg", "project-2-2.jpg"],
          "improvementText": ["This project is every growing and will continue to change as time passes. These stats are provided by Google's Firebase suite."],
          "improvements": [
             {
@@ -92,7 +92,7 @@
          "bigImage": "project-4-big",
          "headline": ["A brand talking for itself. Is the best experience."],
          "description": ["Designed in San Antonio, Texas and handmade in Almansa, Spain.", "SBJM Footwear is the first of three online applications created by it's mother company, SALA Investment Co. to cater to those who appreciate quality product built using old world techniques and practices."],
-         "gallery": ["project-6-1.jpg", "project-6-2.jpg"],
+         "gallery": ["project-2-1.jpg", "project-6-2.jpg"],
          "improvementText": ["This application is due to launch late summer of 2021. Check back daily for updates."],
          "improvements": [
             {
@@ -131,7 +131,7 @@
          "bigImage": "project-3-big",
          "headline": ["A brand talking for itself. Is the best experience."],
          "description": ["Runnit.Live was created to capture customer information and provide a live stream service to extended friends and family of the athletes us workout or play at The DSTRKT, a training facility in Chatsworth, California."],
-         "gallery": ["project-3-1.jpg", "project-3-2.jpg"],
+         "gallery": ["project-4-1.jpg", "project-3-2.jpg"],
          "improvementText": ["LayerCake, Inc. has long-term plans to expand the Runnit.Live progressive web app as-well-as adding a mobile application in the near future. Here are just a few stats from the project."],
          "improvements": [
             {
@@ -248,7 +248,7 @@
          "bigImage": "project-5-big",
          "headline": ["A brand talking for itself. The best experience."],
          "description": ["Filet was created to unde omnis iste natus error sit voluptatem est accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt.", "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam."],
-         "gallery": ["project-6-1.jpg", "project-6-2.jpg"],
+         "gallery": ["project-2-1.jpg", "project-6-2.jpg"],
          "improvementText": ["I enjoyed working on this project sit aspernatur aut odit aut fugit, sed do less consequunt magni dolores."],
          "improvements": [
             {
